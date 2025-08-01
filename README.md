@@ -3,7 +3,7 @@
 A simple travel deals website for Sri Lanka built with Next.js and TailwindCSS.
 
 # 1. Create project
-npx create-next-app@latest travel-deals-app --typescript --tailwind --eslint --app
+npx create-next-app@latest travelDeals-app --typescript --tailwind --eslint --app
 cd travelDeals-app
 
 
